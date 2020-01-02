@@ -1,7 +1,7 @@
 {
   "name": "react-native-tone-android",
   "title": "React Native Tone Android",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Single Tone player",
   "main": "index.js",
   "scripts": {
