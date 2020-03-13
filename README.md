@@ -12,7 +12,7 @@ Android only library. Simply plays a one time Tone with specific frequency and d
 import Tone from "react-native-tone-android";
 
 function somefunction() {
-  const frequency = 4000; //Hz
+  const frequency = 2000; //Hz
   const duration = 50; // ms
 
   Tone.play(frequency, duration);
